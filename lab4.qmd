@@ -393,7 +393,7 @@ We need to install one new package for today to use a specific statistical test.
 
 ```{r eval = FALSE}
 #install the car package
-install.packages("car")
+library(car)
 ??car
 ```
 
